@@ -7,5 +7,5 @@ langchain
 requests
 python-dotenv
 pydantic
-lighthouse-py
+lighthouse
 pytest
