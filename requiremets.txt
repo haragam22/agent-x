@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+beautifulsoup4
+selenium
+openai
+langchain
+requests
+python-dotenv
+pydantic
+lighthouse-py
+pytest
